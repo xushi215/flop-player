@@ -265,7 +265,7 @@ export default defineComponent({
 
 /* 遮罩 */
 .mouse-mask {
-  fill: rgba(0, 0, 0, .5);
+  fill: rgba(255, 255, 255, 0);
 }
 
 /* Openings 边框路径 */
